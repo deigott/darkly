@@ -34,6 +34,28 @@ Throughout the Darkly project, I encountered and successfully tackled various vu
 ## My Approach
 I approached the project with a combination of careful analysis, research, and experimentation. Each vulnerability required a unique approach, and I had to dig deep into cybersecurity concepts and techniques to understand and exploit them.
 
+## Folder Structure
+To organize my work, I structured my repository as follows:
+
+```bash
+$> ls -al
+drwxr-xr-x {Breach name} # Folder for each breached vulnerability
+```
+Inside each `{Breach name}` folder:
+
+```bash
+$> ls -alR {Breach name}
+{Breach name}:
+..
+-rw-r--r-- flag                # File containing the captured flag for the breach
+drwxr-xr-x Ressources          # Resources folder for supporting explanations
+
+{Breach name}/Ressources:
+..
+-rw-r--r-- whatever.wahtever   # Supporting resource file
+```
+I've also included write-ups for each breach inside their respective folders.
+
 ## Achievements
 Throughout the project, I successfully:
 - Explored various vulnerabilities and understood their implications.
