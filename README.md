@@ -1,5 +1,6 @@
 # Darkly Web Security Project
 <img src="https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/1283513/cover-Redesign-WebSecurityVulnerabilities-Luke_Newsletter-04d5cdafdaf363f0bc6aa723a391c343-91ee4d294318c967b26187f4d67a8351.png">
+
 ## Introduction
 Welcome to my Darkly web security project repository! This is where I've documented my journey through the exciting world of web security. In this project, I delved into various vulnerabilities and risks that websites can face on the World Wide Web, and I'm excited to share my findings and solutions with you.
 
