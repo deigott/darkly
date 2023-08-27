@@ -74,6 +74,9 @@ Darkly was an eye-opening experience that taught me:
 - The critical importance of web security in the development process.
 - The significance of tools like OWASP in ensuring secure web applications.
 - The need to carefully consider and address potential vulnerabilities at every stage.
+## Links
+  - [Subject link](https://www.mediafire.com/file/hli8maikq774ofv/en.subject.pdf/file)
+  - [Image iso link](https://www.mediafire.com/file/krcgm2e7r9klwc1/Darkly_i386.iso/file)
 
 ## Disclaimer
 Please note that the vulnerabilities discussed in this repository were exploited for educational purposes as part of the Darkly project. My intent is to share knowledge and raise awareness about web security challenges.
